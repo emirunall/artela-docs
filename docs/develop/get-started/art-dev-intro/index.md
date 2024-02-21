@@ -31,6 +31,7 @@ For more details, refer to:
 * [Aspect](/develop/core-concepts/aspect)
 * [Aspect Runtime](/develop/core-concepts/aspect-runtime) 
 * [Aspect Lifecycle](/develop/core-concepts/lifecycle) 
+* [Aspect Lifecycle](/develop/core-concepts/lifecycle) 
 
 
 
